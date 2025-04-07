@@ -1,5 +1,5 @@
 
-# Resonanz-Schwellen-Test (RST)
+# NI-KI-Resonanz-Schwellen-Test (RST)
 
 **Ein strukturelles Modell zur Unterscheidung bedeutungsfähiger Interaktion in Mensch-KI-Systemen**
 
